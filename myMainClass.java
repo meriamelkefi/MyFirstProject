@@ -1,2 +1,3 @@
 class myMainClass{
+	int myAttribute;
 }
